@@ -1,0 +1,39 @@
+/* designed by Quique Osuna */
+
+/* font settings */
+.space{
+  font-family: 'Space Mono', monospace;
+}
+
+.marker{
+  font-family: 'Permanent Marker', cursive;
+}
+
+/* container presets */
+.width{
+  width: 100%;
+}
+
+.height{
+  height: 100%;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.relative{
+  position: relative;
+}
+
+/* images preset */
+.background{
+  background-position: center;
+  background-size: cover;
+}
+
+.backgroundRight{
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
